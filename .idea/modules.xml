@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Next-js-proda.iml" filepath="$PROJECT_DIR$/.idea/Next-js-proda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nextjs-express-course-app/.idea/Next-js-proda.iml" filepath="$PROJECT_DIR$/nextjs-express-course-app/.idea/Next-js-proda.iml" />
     </modules>
   </component>
 </project>
